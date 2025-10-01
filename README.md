@@ -1,5 +1,5 @@
 <h1>Relógio Digital ⏳</h1>
-<p>Projeto focado na prática de Javascript, bem simples apenas o marcador de hora em tempo real.</p>
+<p>Projeto desenvolvido para praticar JavaScript, exibindo um marcador de hora em tempo real de forma simples e funcional.</p>
 
 <h2>Tecnologias 🤖</h2>
 <ul>
