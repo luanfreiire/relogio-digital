@@ -15,7 +15,7 @@ img {
 body {
     background: linear-gradient(to top, #30cfd0 0%, #330867 100%) no-repeat;
     height: 100vh;
-    padding: 2rem;
+    padding: 2rem 1rem;
     display: flex;
     flex-direction: column;
 }
@@ -69,4 +69,17 @@ main {
 .copyright p {
     font: 600 1rem/1.3 'Oxanium', sans-serif;
     color: #222;
+}
+
+/* media queries */
+@media(width <=600px) {
+    .content h1 {
+        font-size: 4rem;
+    }
+}
+
+@media(width <=400px) {
+    .content h1 {
+        font-size: 3rem;
+    }
 }
